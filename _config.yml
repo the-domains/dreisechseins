@@ -1,0 +1,14 @@
+layout_spectrum: 0.8565204706974328
+typography_spectrum: 0.9811476012691855
+color:
+  brandStrength: 0.1923009913880378
+  lightness: 0.28134238393977284
+  saturation: 0.641101143322885
+  rhythmicContrast: 0.07474145898595452
+  brandColors:
+    - '#FFFFFF'
+    - '#020204'
+    - '#A3A49C'
+    - '#66707C'
+    - '#BEE35E'
+name: Dreisechseins
